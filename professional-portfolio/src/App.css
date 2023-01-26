@@ -37,8 +37,18 @@
   }
 }
 
-#projects {
+h1 {
+  color: grey;
+}
+
+.job-title{
+  color: rgb(118 118 118 / 50%)!important;
+}
+#projects,
+#about {
   display: flex;
+  background: radial-gradient(black, transparent);
+  color: white;
 }
 
 .port-main {
@@ -50,3 +60,9 @@
   background-image: url('../public/jumbotron2.webp');
   height: 100vh;
 }
+
+#mainNav {
+  background-color: white;
+}
+
+/* @media (min-width: 992px) */
