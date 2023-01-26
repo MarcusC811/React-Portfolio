@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+#projects {
+  display: flex;
+}
+
+.port-main {
+  display: flex;
+  flex-direction: column;
+}
+
+.jumbotron {
+  background-image: url('../public/jumbotron2.webp');
+  height: 100vh;
+}
