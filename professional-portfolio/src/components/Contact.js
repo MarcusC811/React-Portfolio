@@ -21,7 +21,7 @@ export default (function Contact () {
                                 <i className="fa-solid fa-envelope"></i>
                                 <h4 className="text-uppercase m-0">Email</h4>
                                 <hr className="my-4 mx-auto" />
-                                <a className="small text-black-50" href="#!">marcuscarlough@gmail.com</a>
+                                <a className="small text-black-50" href="mailto:marcuscarlough@gmail.com">marcuscarlough@gmail.com</a>
                             </div>
                         </div>
                     </div>
