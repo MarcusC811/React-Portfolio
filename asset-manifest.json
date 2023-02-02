@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/professional-portfolio/static/css/main.c6e14312.css",
-    "main.js": "/professional-portfolio/static/js/main.c77ffa3d.js",
-    "static/js/787.10c1ab8b.chunk.js": "/professional-portfolio/static/js/787.10c1ab8b.chunk.js",
-    "static/media/jumbotron2.webp": "/professional-portfolio/static/media/jumbotron2.64390db314646462c3c7.webp",
-    "index.html": "/professional-portfolio/index.html",
-    "main.c6e14312.css.map": "/professional-portfolio/static/css/main.c6e14312.css.map",
-    "main.c77ffa3d.js.map": "/professional-portfolio/static/js/main.c77ffa3d.js.map",
-    "787.10c1ab8b.chunk.js.map": "/professional-portfolio/static/js/787.10c1ab8b.chunk.js.map"
+    "main.css": "/React-Portfolio/static/css/main.87a3f984.css",
+    "main.js": "/React-Portfolio/static/js/main.3ed87da0.js",
+    "static/js/787.10c1ab8b.chunk.js": "/React-Portfolio/static/js/787.10c1ab8b.chunk.js",
+    "static/media/jumbotron2.webp": "/React-Portfolio/static/media/jumbotron2.64390db314646462c3c7.webp",
+    "index.html": "/React-Portfolio/index.html",
+    "main.87a3f984.css.map": "/React-Portfolio/static/css/main.87a3f984.css.map",
+    "main.3ed87da0.js.map": "/React-Portfolio/static/js/main.3ed87da0.js.map",
+    "787.10c1ab8b.chunk.js.map": "/React-Portfolio/static/js/787.10c1ab8b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c6e14312.css",
-    "static/js/main.c77ffa3d.js"
+    "static/css/main.87a3f984.css",
+    "static/js/main.3ed87da0.js"
   ]
 }
